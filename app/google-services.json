@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "116343137801",
+    "firebase_url": "https://robertconsulting-dfe96.firebaseio.com",
+    "project_id": "robertconsulting-dfe96",
+    "storage_bucket": "robertconsulting-dfe96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116343137801:android:05ff6f85a5e00b2ce6fad8",
+        "android_client_info": {
+          "package_name": "courses.pluralsight.com.tabianconsulting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116343137801-1iqoqt7qui33eau98653bd4htq303pis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVQ6IDUJjdk3Tr6gzrt3TL6rZpmaCBsP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116343137801-1iqoqt7qui33eau98653bd4htq303pis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
